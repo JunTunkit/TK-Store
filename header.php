@@ -70,7 +70,7 @@
                   </li>
 
                   <li class="nav-item">
-                    <a href="#" class="icons">
+                    <a href="./cart.php" class="icons">
                       <i class="ti-shopping-cart"></i>
                     </a>
                   </li>
@@ -82,7 +82,7 @@
                   </li>
 
                   <li class="nav-item">
-                    <a href="#" class="icons">
+                    <a href="./favorite.php" class="icons">
                       <i class="ti-heart" aria-hidden="true"></i>
                     </a>
                   </li>
